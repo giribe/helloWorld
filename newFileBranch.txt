@@ -1,1 +1,5 @@
 # feature3
+
+Conflict f2
+
+Conflict f3
